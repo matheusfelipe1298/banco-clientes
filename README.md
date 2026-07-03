@@ -2,7 +2,7 @@ Sistema de Clientes (MySQL)
 
 Projeto simples usando MySQL Workbench
 
- Funcionalidades
+ Funcionalidades:
 
 Criar tabela de clientes
 
@@ -10,7 +10,7 @@ Inserir dados
 
 Listar clientes
 
-Tecnologias
+Tecnologias:
 
 -MySQL
 -ХАМРР
