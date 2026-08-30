@@ -1,16 +1,7 @@
-Sistema de Clientes (MySQL)
+SQL estudos
 
-Projeto simples usando MySQL Workbench
-
- Funcionalidades:
-
-Criar tabela de clientes
-
-Inserir dados
-
-Listar clientes
-
-Tecnologias:
+Repositório criado para guardar meus exercícios e desafios de SQL enquanto estudo programação.
+Tecnologias que uso:
 
 -MySQL
 -ХАМРР
